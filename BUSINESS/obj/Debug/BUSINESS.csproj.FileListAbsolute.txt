@@ -1,0 +1,14 @@
+D:\HỌC TẬP\lambaiho\QL_ThuVien\BUSINESS\bin\Debug\BUSINESS.dll
+D:\HỌC TẬP\lambaiho\QL_ThuVien\BUSINESS\bin\Debug\BUSINESS.pdb
+D:\HỌC TẬP\lambaiho\QL_ThuVien\BUSINESS\bin\Debug\DATA.dll
+D:\HỌC TẬP\lambaiho\QL_ThuVien\BUSINESS\bin\Debug\DATA.pdb
+D:\HỌC TẬP\lambaiho\QL_ThuVien\BUSINESS\obj\Debug\BUSINESS.csprojResolveAssemblyReference.cache
+D:\HỌC TẬP\lambaiho\QL_ThuVien\BUSINESS\obj\Debug\BUSINESS.dll
+D:\HỌC TẬP\lambaiho\QL_ThuVien\BUSINESS\obj\Debug\BUSINESS.pdb
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\BUSINESS\bin\Debug\BUSINESS.dll
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\BUSINESS\bin\Debug\BUSINESS.pdb
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\BUSINESS\bin\Debug\DATA.dll
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\BUSINESS\bin\Debug\DATA.pdb
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\BUSINESS\obj\Debug\BUSINESS.csprojResolveAssemblyReference.cache
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\BUSINESS\obj\Debug\BUSINESS.dll
+D:\DoAnNam3\20_Quan Ly Thu Vien\QL_ThuVien\BUSINESS\obj\Debug\BUSINESS.pdb
